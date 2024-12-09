@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #272424;
+    text-align: center; 
+}
+
+h1 {
+    color: rgb(106, 88, 88);
+    text-align: center;
+    font-size: 50px
+}
+
+button {
+    font-size: 20px; 
+    padding: 15px 30px; 
+    background-color: #000000; 
+    color: rgb(112, 96, 96); 
+    border: none; /* Remove a borda do botão */
+    border-radius: 5px; /* Arredonda as bordas */
+    cursor: pointer; /* Muda o cursor do mouse para indicar que é clicável */
+}
+
+#resultado {
+    color: rgb(0, 183, 255);
+  }
